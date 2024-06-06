@@ -63,11 +63,11 @@ The analysis focuses on the following aspects:
     - **Key Insight:** Higher discount amounts result in greater losses, especially for high order values.
 
 ## Tools Used
-**Python:** For data analysis and visualization.
-**Pandas:** For data manipulation and cleaning.
-**NumPy:** For numerical operations.
-**Matplotlib and Seaborn:** For data visualization.
-**Jupyter Notebook:** For interactive analysis and documentation.
+- **Python:** For data analysis and visualization.
+- **Pandas:** For data manipulation and cleaning.
+- **NumPy:** For numerical operations.
+- **Matplotlib and Seaborn:** For data visualization.
+- **Jupyter Notebook:** For interactive analysis and documentation.
 
 ## Recommendations
 -----------------------
