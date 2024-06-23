@@ -1,5 +1,6 @@
-# Food Delivery Profitability Analysis
+# 🛵Food Delivery Profitability Analysis🛵
 ---------------------------------------
+![dataset-cover](https://github.com/SBOSE550/food-delivery-cost-and-profitability-analysis/assets/98967373/a012e6e9-e735-42cf-b2a6-d3d294f75eb7)
 ## Overview
 ------------
 This project involves an in-depth analysis of a food delivery company's profitability. The goal is to identify key factors influencing profit margins and to derive insights that can help improve operational efficiency and profitability.
