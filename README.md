@@ -60,7 +60,7 @@ The analysis focuses on the following aspects:
         - **15% for New Users:** 19.8% of total orders
     - **Profit Impact:**
       - **Losses:** Primarily due to 15% new user discounts and 10% discounts when applied to higher order value
-      - **Profits:** Mainly from no discount and 50-off promo orders and when 15% new user discounts and 10% discounts applied to lower order values
+      - **Profits:** Mainly from no discount and 50-off promo orders and when 15% new user discounts and 10% discounts are applied to lower order values
     - **Key Insight:** Higher discount amounts result in greater losses, especially for high order values.
 
 ## Tools Used
@@ -75,7 +75,7 @@ The analysis focuses on the following aspects:
 Based on the insights from the analysis, the following recommendations aim to decrease costs, increase revenue, and consequently, significantly enhance profitability.
 
 ### 1. Cost Reduction:
-- **High-Value Orders:** For orders where the order value exceeds 1000 and currently have a '10%' discount:
+- **High-Value Orders:** For orders where the order value exceeds 1000 and currently has a '10%' discount:
   - Replace 70% of these orders with a '50-off promo'.
   - Replace the remaining 30% with 'No discount'.
   - **Reason:** This approach leverages the fact that '50-off promo' and 'No discount' orders have shown better profitability.
@@ -90,3 +90,7 @@ Based on the insights from the analysis, the following recommendations aim to de
 - **Commission Fees:** To increase revenue, adjust the commission fee structure:
   - Increase the commission fee by 10% of the order value for every 500 increase in order value.
   - **Reason:** By aligning commission fees with order values, we can better capture revenue from higher-value orders, where the current commission is disproportionately low.
+
+## Detailed Project Report
+-------------------------------
+For an in-depth view of the data analysis process, problem identification, and solution recommendations, please refer to the full report: [Food Delivery Profitability Analysis Report](https://oxidized-dugong-e24.notion.site/Unveiling-Profitability-Insights-in-Food-Delivery-A-Data-Driven-Approach-b5c3064c041e4c64b6d9f3045e085aec)
